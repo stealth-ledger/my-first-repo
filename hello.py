@@ -3,3 +3,6 @@ def greet(name):
 
 if __name__ == "__main__":
     print(greet("stealth-ledger"))
+
+def add(a, b):
+    return a + b
